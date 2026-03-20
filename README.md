@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Prachi Sharma
 
-<!--
-**PrachiSharma8/PrachiSharma8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AIML) Student  
+💻 Passionate about AI, ML & Software Development  
+🌱 Currently learning C++, DSA & Web Development  
+🎯 Goal: Software Engineer at Samsung South Korea 🇰🇷  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: C, Python  
+- Tools: Git, GitHub, VS Code  
+
+---
+
+## 📌 Projects
+- 🔗 Tic Tac Toe Game 
+- 🔗 Crypto Game (Planned Project)  
+- 🔗 DSA in C++ (Daily Practice)  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: 
