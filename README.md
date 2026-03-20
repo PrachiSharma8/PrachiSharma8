@@ -12,7 +12,7 @@
 - Tools: Git, GitHub, VS Code
 - HTML, CSS, JavaScript  
 
----
+--- 
 
 ## 📌 Projects
 - 🔗 Tic Tac Toe Game 
