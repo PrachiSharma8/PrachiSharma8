@@ -2,22 +2,22 @@
 
 🎓 B.Tech CSE (AIML) Student  
 💻 Passionate about AI, ML & Software Development  
-🌱 Currently learning C++, DSA & Web Development  
+🌱 Currently learning Java, DSA & Web Development  
 🎯 Goal: Software Engineer at Samsung South Korea 🇰🇷  
 
 ---
 
 ## 🛠️ Skills
-- Languages: C, Python  
+- Languages: C, Python, Java 
 - Tools: Git, GitHub, VS Code
 - HTML, CSS, JavaScript  
 
 --- 
 
 ## 📌 Projects
-- 🔗 Tic Tac Toe Game 
-- 🔗 Crypto Game (Planned Project)  
-- 🔗 DSA in C++ (Daily Practice)  
+- 🔗 Tic Tac Toe Game (C:\Users\pksha\Tic Tac Toe) 
+- 🔗 Stone Paper Scissor Game (C:\Users\pksha\Stone Paper Scissor)    
+- 🔗 DSA in Java (Daily Practice)  
 
 --- 
 
